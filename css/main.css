@@ -142,5 +142,5 @@ section { display: flex;}
 .banner-text > div:last-child {
   font-size: 16px;
   font-weight: 400;
-  top-margin: 5px;
+  margin-top: 5px;
 }
