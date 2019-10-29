@@ -151,3 +151,9 @@ section { display: flex;}
  }
 
  .category img { width: 100%;}
+
+ .category-text {
+   font-size: 16px;
+   font-weight: 200;
+   color: #faa541;
+ }
