@@ -201,7 +201,7 @@ section { display: flex;}
  .full-banner-sidebar {
    flex: 0 0 41.666667%;
    background-color: #364147;
-   text-trasform: uppercase;
+   text-transform: uppercase;
    padding: 30px;
    color: #ffffff;
  }
