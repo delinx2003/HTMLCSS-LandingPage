@@ -250,3 +250,16 @@ footer {
   min-height: 330px;
   background-color: #000000;
 }
+
+footer:after {
+  content: "";
+  background-color: #a0a0a0;
+  width: 75%;
+  position: absolute;
+  top: 0; 
+  bottom: 0;
+  left: 0;
+  right 0;
+  z-index: -1;
+
+}
