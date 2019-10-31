@@ -295,5 +295,20 @@ footer a:hover {  text-decoration: underline; }
   height: 23px;
   background-size: 23px 23px;
   background-position:  center;
+}
 
+.twitter {
+  background-image: url('../img/twitter.svg')
+}
+
+.facebook {
+  background-image: url('../img/facebook.svg')
+}
+
+.instragram {
+  background-image: url('../img/instragram.svg')
+}
+
+.pinterest {
+    background-image: url('../img/pinterest.svg')
 }
